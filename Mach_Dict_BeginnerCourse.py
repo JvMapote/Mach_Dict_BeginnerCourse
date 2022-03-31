@@ -68,3 +68,11 @@ def input_Function():
     num1 = int(input("Please enter your first number: "))
     num2 = int(input("Please enter your second number: "))
     print("Total: ", addNum(num1, num2))
+
+def datatypes_conversion():
+    variable = null
+    print(int(variable))
+    print(float(variable))
+    print(str(variable))
+    print(tuple(variable))
+    print(list(variable))
