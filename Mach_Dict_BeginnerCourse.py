@@ -36,3 +36,15 @@ def challenges():
     print("I could use a cup of coffee.")
 
     #challenge 3
+    favorite_book = "Slaughterhouse-Five"
+    least_favorite_book = "Jane Eyre"
+
+    print("I enjoyed reading " + least_favorite_book + ".")
+
+    #challenge 4
+    #how to make a comment
+
+    #challenge 5
+    #dude this is boring ill skip this task basta w at z
+
+def functions():
