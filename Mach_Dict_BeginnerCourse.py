@@ -48,3 +48,9 @@ def challenges():
     #dude this is boring ill skip this task basta w at z
 
 def functions():
+    #creating functions
+
+    def hello_function(name):
+        print("Hello, " + name + "!")
+
+    hello_function("jv")
