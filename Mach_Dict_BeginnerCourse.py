@@ -70,9 +70,12 @@ def input_Function():
     print("Total: ", addNum(num1, num2))
 
 def datatypes_conversion():
-    variable = null
+    variable = "hello world"
     print(int(variable))
     print(float(variable))
     print(str(variable))
     print(tuple(variable))
     print(list(variable))
+
+
+
