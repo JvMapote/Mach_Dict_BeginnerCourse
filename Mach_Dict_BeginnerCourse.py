@@ -85,3 +85,11 @@ def CreatingClass():
         looks = "Adorable!"
     hamster = Pets()
     print(hamster.looks)
+
+
+def LoopsAndIterations():
+    
+    color = ["purple", "red", "orange", "yellow"]
+    for x in color:
+        print(x)
+
