@@ -79,4 +79,9 @@ def datatypes_conversion():
 
 
 
+def CreatingClass():
 
+    class Pets:
+        looks = "Adorable!"
+    hamster = Pets()
+    print(hamster.looks)
